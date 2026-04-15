@@ -1,0 +1,134 @@
+{
+  "existing_heartbeat": "none",
+  "frameworks": [
+    "system-zero"
+  ],
+  "goals": [
+    "Boot a complete reconstructed self-improvement stack",
+    "Run base health checks and reconstructed module ticks",
+    "Demonstrate module portability through the System Zero protocol"
+  ],
+  "language": "mixed",
+  "purpose": "An anonymized System Zero reference stack reconstructed from connection-engine modules.",
+  "recommended_modules": [
+    {
+      "id": "heartbeat",
+      "reason": "Pinned reference stack module."
+    },
+    {
+      "id": "immune",
+      "reason": "Pinned reference stack module."
+    },
+    {
+      "id": "subconscious",
+      "reason": "Pinned reference stack module."
+    },
+    {
+      "id": "action-card-cleanup-ce",
+      "reason": "Pinned reference stack module."
+    },
+    {
+      "id": "agent-dashboard-ce",
+      "reason": "Pinned reference stack module."
+    },
+    {
+      "id": "argentina-ce",
+      "reason": "Pinned reference stack module."
+    },
+    {
+      "id": "business-ce",
+      "reason": "Pinned reference stack module."
+    },
+    {
+      "id": "check-linkedin-autopost-policy-ce",
+      "reason": "Pinned reference stack module."
+    },
+    {
+      "id": "chronicle-ce",
+      "reason": "Pinned reference stack module."
+    },
+    {
+      "id": "context-assembler-ce",
+      "reason": "Pinned reference stack module."
+    },
+    {
+      "id": "eidetic-ce",
+      "reason": "Pinned reference stack module."
+    },
+    {
+      "id": "google-ads-ce",
+      "reason": "Pinned reference stack module."
+    },
+    {
+      "id": "identity-ce",
+      "reason": "Pinned reference stack module."
+    },
+    {
+      "id": "linkedin-content-pipeline-ce",
+      "reason": "Pinned reference stack module."
+    },
+    {
+      "id": "linkedin-messaging-ce",
+      "reason": "Pinned reference stack module."
+    },
+    {
+      "id": "mass-market-ce",
+      "reason": "Pinned reference stack module."
+    },
+    {
+      "id": "mcp-server-launcher-ce",
+      "reason": "Pinned reference stack module."
+    },
+    {
+      "id": "moonshot-init-tracking-files-ce",
+      "reason": "Pinned reference stack module."
+    },
+    {
+      "id": "moonshot-ventures-ce",
+      "reason": "Pinned reference stack module."
+    },
+    {
+      "id": "queue-gate-ce",
+      "reason": "Pinned reference stack module."
+    },
+    {
+      "id": "registry-validator-ce",
+      "reason": "Pinned reference stack module."
+    },
+    {
+      "id": "rollback-email-verification-ce",
+      "reason": "Pinned reference stack module."
+    },
+    {
+      "id": "sentinel-ce",
+      "reason": "Pinned reference stack module."
+    },
+    {
+      "id": "session-bootstrap-ce",
+      "reason": "Pinned reference stack module."
+    },
+    {
+      "id": "solo-venture-ce",
+      "reason": "Pinned reference stack module."
+    },
+    {
+      "id": "spec-dependency-graph-ce",
+      "reason": "Pinned reference stack module."
+    },
+    {
+      "id": "spec-lint-ce",
+      "reason": "Pinned reference stack module."
+    },
+    {
+      "id": "start-preamble-ce",
+      "reason": "Pinned reference stack module."
+    },
+    {
+      "id": "system-zero-ce",
+      "reason": "Pinned reference stack module."
+    }
+  ],
+  "risk_flags": [
+    "Generated reference stack; module mirrors may be private until promotion."
+  ]
+}
