@@ -5,83 +5,63 @@ modules:
   heartbeat:
     version: 0.1.0
     enabled: true
-    setpoints: {}
   immune:
     version: 0.1.0
     enabled: true
-    setpoints: {}
   subconscious:
     version: 0.1.0
     enabled: true
-    setpoints: {}
   action-card-cleanup-ce:
     version: 0.1.0
     enabled: true
-    setpoints: {}
   agent-dashboard-ce:
     version: 0.1.0
     enabled: true
-    setpoints: {}
   check-linkedin-autopost-policy-ce:
     version: 0.1.0
     enabled: true
-    setpoints: {}
   chronicle-ce:
     version: 0.1.0
     enabled: true
-    setpoints: {}
   context-assembler-ce:
     version: 0.1.0
     enabled: true
-    setpoints: {}
   eidetic-ce:
     version: 0.1.0
     enabled: true
-    setpoints: {}
   mcp-server-launcher-ce:
     version: 0.1.0
     enabled: true
-    setpoints: {}
   queue-gate-ce:
     version: 0.1.0
     enabled: true
-    setpoints: {}
   registry-validator-ce:
     version: 0.1.0
     enabled: true
-    setpoints: {}
   rollback-email-verification-ce:
     version: 0.1.0
     enabled: true
-    setpoints: {}
   sentinel-ce:
     version: 0.1.0
     enabled: true
-    setpoints: {}
   session-bootstrap-ce:
     version: 0.1.0
     enabled: true
-    setpoints: {}
   skill-library-ce:
     version: 0.1.0
     enabled: true
-    setpoints: {}
   spec-dependency-graph-ce:
     version: 0.1.0
     enabled: true
-    setpoints: {}
   spec-lint-ce:
     version: 0.1.0
     enabled: true
-    setpoints: {}
   start-preamble-ce:
     version: 0.1.0
     enabled: true
-    setpoints: {}
   system-zero-ce:
     version: 0.1.0
     enabled: true
-    setpoints: {}
 providers: {}
 cloud:
   tier: free

@@ -1,0 +1,6 @@
+.sz/*
+!.sz/repo-profile.json
+!.sz/repo-profile.seed.json
+__pycache__/
+*.pyc
+.DS_Store
