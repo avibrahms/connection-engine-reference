@@ -1,15 +1,15 @@
 {
-  "existing_heartbeat": "none",
+  "purpose": "An anonymized System Zero reference stack reconstructed from connection-engine modules.",
+  "language": "mixed",
   "frameworks": [
     "system-zero"
   ],
+  "existing_heartbeat": "none",
   "goals": [
     "Boot a complete reconstructed self-improvement stack",
     "Run base health checks and reconstructed module ticks",
     "Demonstrate module portability through the System Zero protocol"
   ],
-  "language": "mixed",
-  "purpose": "An anonymized System Zero reference stack reconstructed from connection-engine modules.",
   "recommended_modules": [
     {
       "id": "heartbeat",
@@ -32,14 +32,6 @@
       "reason": "Pinned reference stack module."
     },
     {
-      "id": "argentina-ce",
-      "reason": "Pinned reference stack module."
-    },
-    {
-      "id": "business-ce",
-      "reason": "Pinned reference stack module."
-    },
-    {
       "id": "check-linkedin-autopost-policy-ce",
       "reason": "Pinned reference stack module."
     },
@@ -56,35 +48,7 @@
       "reason": "Pinned reference stack module."
     },
     {
-      "id": "google-ads-ce",
-      "reason": "Pinned reference stack module."
-    },
-    {
-      "id": "identity-ce",
-      "reason": "Pinned reference stack module."
-    },
-    {
-      "id": "linkedin-content-pipeline-ce",
-      "reason": "Pinned reference stack module."
-    },
-    {
-      "id": "linkedin-messaging-ce",
-      "reason": "Pinned reference stack module."
-    },
-    {
-      "id": "mass-market-ce",
-      "reason": "Pinned reference stack module."
-    },
-    {
       "id": "mcp-server-launcher-ce",
-      "reason": "Pinned reference stack module."
-    },
-    {
-      "id": "moonshot-init-tracking-files-ce",
-      "reason": "Pinned reference stack module."
-    },
-    {
-      "id": "moonshot-ventures-ce",
       "reason": "Pinned reference stack module."
     },
     {
@@ -108,7 +72,7 @@
       "reason": "Pinned reference stack module."
     },
     {
-      "id": "solo-venture-ce",
+      "id": "skill-library-ce",
       "reason": "Pinned reference stack module."
     },
     {
@@ -129,6 +93,6 @@
     }
   ],
   "risk_flags": [
-    "Generated reference stack; module mirrors may be private until promotion."
+    "Generated reference stack; modules are fetched from the public System Zero catalog."
   ]
 }

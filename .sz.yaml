@@ -22,14 +22,6 @@ modules:
     version: 0.1.0
     enabled: true
     setpoints: {}
-  argentina-ce:
-    version: 0.1.0
-    enabled: true
-    setpoints: {}
-  business-ce:
-    version: 0.1.0
-    enabled: true
-    setpoints: {}
   check-linkedin-autopost-policy-ce:
     version: 0.1.0
     enabled: true
@@ -46,35 +38,7 @@ modules:
     version: 0.1.0
     enabled: true
     setpoints: {}
-  google-ads-ce:
-    version: 0.1.0
-    enabled: true
-    setpoints: {}
-  identity-ce:
-    version: 0.1.0
-    enabled: true
-    setpoints: {}
-  linkedin-content-pipeline-ce:
-    version: 0.1.0
-    enabled: true
-    setpoints: {}
-  linkedin-messaging-ce:
-    version: 0.1.0
-    enabled: true
-    setpoints: {}
-  mass-market-ce:
-    version: 0.1.0
-    enabled: true
-    setpoints: {}
   mcp-server-launcher-ce:
-    version: 0.1.0
-    enabled: true
-    setpoints: {}
-  moonshot-init-tracking-files-ce:
-    version: 0.1.0
-    enabled: true
-    setpoints: {}
-  moonshot-ventures-ce:
     version: 0.1.0
     enabled: true
     setpoints: {}
@@ -98,7 +62,7 @@ modules:
     version: 0.1.0
     enabled: true
     setpoints: {}
-  solo-venture-ce:
+  skill-library-ce:
     version: 0.1.0
     enabled: true
     setpoints: {}
@@ -118,8 +82,7 @@ modules:
     version: 0.1.0
     enabled: true
     setpoints: {}
-providers:
-  llm: mock
+providers: {}
 cloud:
   tier: free
   endpoint: https://api.systemzero.dev
